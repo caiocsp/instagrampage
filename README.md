@@ -2,7 +2,7 @@
 
 ### Exemplo de página inicial da rede social Instagram
 
-Projeto produzido como atividade da plataforma de aprendizagem **Digital Inovation One** <https://digitalinnovation.one/>, cujo o objetivo foi apresentar de forma prática o que foi trabalhado nas aulas anteriores, a utilização do flex-box e como tornar o conteúdo da página responsivo.
+Projeto produzido como atividade da plataforma de aprendizagem **Digital Inovation One** <https://digitalinnovation.one/>, cujo o objetivo foi apresentar de forma prática o que foi trabalhado nas aulas anteriores, como a utilização do flex-box e como tornar o conteúdo da página responsivo.
 
 ***
 
